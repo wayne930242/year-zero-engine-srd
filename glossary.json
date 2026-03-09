@@ -1,6 +1,716 @@
 {
   "_meta": {
     "description": "術語表 - 英文遊戲術語對照繁體中文翻譯",
-    "updated": ""
+    "updated": "2026-03-09T12:00:53+00:00"
+  },
+  "Player Character": {
+    "zh": "玩家角色",
+    "status": "approved",
+    "is_term": true
+  },
+  "Non-Player Character": {
+    "zh": "非玩家角色",
+    "status": "approved",
+    "is_term": true
+  },
+  "Gamemaster": {
+    "zh": "主持人",
+    "status": "approved",
+    "is_term": true
+  },
+  "Year Zero Engine": {
+    "zh": "元年引擎",
+    "status": "approved",
+    "is_term": true
+  },
+  "Attribute": {
+    "zh": "屬性",
+    "status": "approved",
+    "is_term": true
+  },
+  "Strength": {
+    "zh": "力量",
+    "status": "approved",
+    "is_term": true
+  },
+  "Agility": {
+    "zh": "敏捷",
+    "status": "approved",
+    "is_term": true
+  },
+  "Skill": {
+    "zh": "技能",
+    "status": "approved",
+    "is_term": true
+  },
+  "Specialty": {
+    "zh": "專長",
+    "status": "approved",
+    "is_term": true
+  },
+  "Archetype": {
+    "zh": "原型",
+    "status": "approved",
+    "is_term": true
+  },
+  "Gear": {
+    "zh": "裝備",
+    "status": "approved",
+    "is_term": true
+  },
+  "Damage": {
+    "zh": "傷害",
+    "status": "approved",
+    "is_term": true
+  },
+  "Modifier": {
+    "zh": "調整值",
+    "status": "approved",
+    "is_term": true
+  },
+  "Dice Pool": {
+    "zh": "骰池",
+    "status": "approved",
+    "is_term": true
+  },
+  "Success": {
+    "zh": "成功",
+    "status": "approved",
+    "is_term": true
+  },
+  "Round": {
+    "zh": "輪",
+    "status": "approved",
+    "is_term": true
+  },
+  "Initiative": {
+    "zh": "先攻",
+    "status": "approved",
+    "is_term": true
+  },
+  "Zone": {
+    "zh": "區域",
+    "status": "approved",
+    "is_term": true
+  },
+  "Encumbrance": {
+    "zh": "負重",
+    "status": "approved",
+    "is_term": true
+  },
+  "Critical Injury": {
+    "zh": "嚴重傷害",
+    "status": "approved",
+    "is_term": true
+  },
+  "Personality Traits": {
+    "zh": "性格特質",
+    "status": "approved",
+    "is_term": true
+  },
+  "Resolve": {
+    "zh": "意志",
+    "status": "approved",
+    "is_term": true
+  },
+  "Stress": {
+    "zh": "壓力",
+    "status": "approved",
+    "is_term": true
+  },
+  "Panic": {
+    "zh": "恐慌",
+    "status": "approved",
+    "is_term": true
+  },
+  "Force": {
+    "zh": "強力",
+    "status": "approved",
+    "is_term": true
+  },
+  "Melee": {
+    "zh": "近戰",
+    "status": "approved",
+    "is_term": true
+  },
+  "Stamina": {
+    "zh": "體魄",
+    "status": "approved",
+    "is_term": true
+  },
+  "Marksmanship": {
+    "zh": "射擊",
+    "status": "approved",
+    "is_term": true
+  },
+  "Mobility": {
+    "zh": "機動",
+    "status": "approved",
+    "is_term": true
+  },
+  "Stealth": {
+    "zh": "潛行",
+    "status": "approved",
+    "is_term": true
+  },
+  "Crafting": {
+    "zh": "工藝",
+    "status": "approved",
+    "is_term": true
+  },
+  "Observation": {
+    "zh": "觀察",
+    "status": "approved",
+    "is_term": true
+  },
+  "Survival": {
+    "zh": "求生",
+    "status": "approved",
+    "is_term": true
+  },
+  "Healing": {
+    "zh": "治療",
+    "status": "approved",
+    "is_term": true
+  },
+  "Insight": {
+    "zh": "洞察",
+    "status": "approved",
+    "is_term": true
+  },
+  "Persuasion": {
+    "zh": "說服",
+    "status": "approved",
+    "is_term": true
+  },
+  "Health": {
+    "zh": "生命值",
+    "status": "approved",
+    "is_term": true
+  },
+  "Willpower Point": {
+    "zh": "意志點",
+    "status": "approved",
+    "is_term": true
+  },
+  "Passive Roll": {
+    "zh": "被動骰",
+    "status": "approved",
+    "is_term": true
+  },
+  "Character Sheet": {
+    "zh": "角色卡",
+    "status": "approved",
+    "is_term": true
+  },
+  "Broken": {
+    "zh": "崩潰",
+    "status": "approved",
+    "is_term": true
+  },
+  "Wits": {
+    "zh": "機智",
+    "status": "approved",
+    "is_term": true
+  },
+  "Empathy": {
+    "zh": "同理",
+    "status": "approved",
+    "is_term": true
+  },
+  "Bane": {
+    "zh": "厄兆",
+    "status": "approved",
+    "is_term": true
+  },
+  "Push": {
+    "zh": "強推",
+    "status": "approved",
+    "is_term": true
+  },
+  "Stretch": {
+    "zh": "片段",
+    "status": "approved",
+    "is_term": true
+  },
+  "Shift": {
+    "zh": "時段",
+    "status": "approved",
+    "is_term": true
+  },
+  "action": {
+    "zh": "行動",
+    "status": "approved",
+    "is_term": true
+  },
+  "attack": {
+    "zh": "攻擊",
+    "status": "approved",
+    "is_term": true
+  },
+  "spell": {
+    "zh": "法術",
+    "status": "approved",
+    "is_term": true
+  },
+  "weapon": {
+    "zh": "武器",
+    "status": "approved",
+    "is_term": true
+  },
+  "armor": {
+    "zh": "護甲",
+    "status": "approved",
+    "is_term": true
+  },
+  "combat": {
+    "zh": "戰鬥",
+    "status": "approved",
+    "is_term": true
+  },
+  "vehicle": {
+    "zh": "載具",
+    "status": "approved",
+    "is_term": true
+  },
+  "maneuver": {
+    "zh": "戰術動作",
+    "status": "approved",
+    "is_term": true
+  },
+  "turn": {
+    "zh": "回合",
+    "status": "approved",
+    "is_term": true
+  },
+  "cover": {
+    "zh": "掩護",
+    "status": "approved",
+    "is_term": true
+  },
+  "ritual": {
+    "zh": "儀式",
+    "status": "approved",
+    "is_term": true
+  },
+  "mishap": {
+    "zh": "失控",
+    "status": "approved",
+    "is_term": true
+  },
+  "ammo": {
+    "zh": "彈藥",
+    "status": "approved",
+    "is_term": true
+  },
+  "camp": {
+    "zh": "紮營",
+    "status": "approved",
+    "is_term": true
+  },
+  "hex": {
+    "zh": "六角格",
+    "status": "approved",
+    "is_term": true
+  },
+  "chase": {
+    "zh": "追逐",
+    "status": "approved",
+    "is_term": true
+  },
+  "movement": {
+    "zh": "移動",
+    "status": "approved",
+    "is_term": true
+  },
+  "poison": {
+    "zh": "毒素",
+    "status": "approved",
+    "is_term": true
+  },
+  "undead": {
+    "zh": "不死",
+    "status": "approved",
+    "is_term": true
+  },
+  "level": {
+    "zh": "等級",
+    "status": "approved",
+    "is_term": true
+  },
+  "Willpower": {
+    "zh": "意志力",
+    "status": "approved",
+    "is_term": true
+  },
+  "Engaged": {
+    "zh": "接戰",
+    "status": "approved",
+    "is_term": true
+  },
+  "Extreme": {
+    "zh": "極遠",
+    "status": "approved",
+    "is_term": true
+  },
+  "Short": {
+    "zh": "近距",
+    "status": "approved",
+    "is_term": true
+  },
+  "Medium": {
+    "zh": "中距",
+    "status": "approved",
+    "is_term": true
+  },
+  "Long": {
+    "zh": "遠距",
+    "status": "approved",
+    "is_term": true
+  },
+  "roll": {
+    "zh": "擲骰",
+    "status": "approved",
+    "is_term": true
+  },
+  "die": {
+    "zh": "骰子",
+    "status": "approved",
+    "is_term": true
+  },
+  "opposed roll": {
+    "zh": "對抗骰",
+    "status": "approved",
+    "is_term": true
+  },
+  "push the roll": {
+    "zh": "強推擲骰",
+    "status": "approved",
+    "is_term": true
+  },
+  "Bodyguard": {
+    "zh": "保鑣",
+    "status": "approved",
+    "is_term": true
+  },
+  "Compassion": {
+    "zh": "惻隱之心",
+    "status": "approved",
+    "is_term": true
+  },
+  "Fast Reflexes": {
+    "zh": "快速反應",
+    "status": "approved",
+    "is_term": true
+  },
+  "Field Surgeon": {
+    "zh": "戰地軍醫",
+    "status": "approved",
+    "is_term": true
+  },
+  "Flyweight": {
+    "zh": "輕量級",
+    "status": "approved",
+    "is_term": true
+  },
+  "Pack Mule": {
+    "zh": "負重能手",
+    "status": "approved",
+    "is_term": true
+  },
+  "Gut Feeling": {
+    "zh": "直覺",
+    "status": "approved",
+    "is_term": true
+  },
+  "Hardened": {
+    "zh": "堅毅",
+    "status": "approved",
+    "is_term": true
+  },
+  "Hard Hitter": {
+    "zh": "重擊手",
+    "status": "approved",
+    "is_term": true
+  },
+  "Healer": {
+    "zh": "療癒者",
+    "status": "approved",
+    "is_term": true
+  },
+  "Inquisitive": {
+    "zh": "求知若渴",
+    "status": "approved",
+    "is_term": true
+  },
+  "Killer": {
+    "zh": "殺手",
+    "status": "approved",
+    "is_term": true
+  },
+  "Lucky": {
+    "zh": "幸運兒",
+    "status": "approved",
+    "is_term": true
+  },
+  "Menacing": {
+    "zh": "懾人",
+    "status": "approved",
+    "is_term": true
+  },
+  "Merciless": {
+    "zh": "無情",
+    "status": "approved",
+    "is_term": true
+  },
+  "Musician": {
+    "zh": "音樂家",
+    "status": "approved",
+    "is_term": true
+  },
+  "Quick Draw": {
+    "zh": "快拔",
+    "status": "approved",
+    "is_term": true
+  },
+  "Reckless": {
+    "zh": "魯莽",
+    "status": "approved",
+    "is_term": true
+  },
+  "Second Wind": {
+    "zh": "再振作",
+    "status": "approved",
+    "is_term": true
+  },
+  "Sniper": {
+    "zh": "狙擊手",
+    "status": "approved",
+    "is_term": true
+  },
+  "Tough": {
+    "zh": "強韌",
+    "status": "approved",
+    "is_term": true
+  },
+  "True Grit": {
+    "zh": "硬骨頭",
+    "status": "approved",
+    "is_term": true
+  },
+  "Weapon Specialist": {
+    "zh": "武器專精",
+    "status": "approved",
+    "is_term": true
+  },
+  "Cluttered": {
+    "zh": "雜亂",
+    "status": "approved",
+    "is_term": true
+  },
+  "Dimly Lit": {
+    "zh": "昏暗",
+    "status": "approved",
+    "is_term": true
+  },
+  "Cramped": {
+    "zh": "狹窄",
+    "status": "approved",
+    "is_term": true
+  },
+  "Line of Sight": {
+    "zh": "視線",
+    "status": "approved",
+    "is_term": true
+  },
+  "Surprise": {
+    "zh": "突襲",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ambush": {
+    "zh": "伏擊",
+    "status": "approved",
+    "is_term": true
+  },
+  "Overwatch": {
+    "zh": "戒備射擊",
+    "status": "approved",
+    "is_term": true
+  },
+  "Reload": {
+    "zh": "裝填",
+    "status": "approved",
+    "is_term": true
+  },
+  "First Aid": {
+    "zh": "急救",
+    "status": "approved",
+    "is_term": true
+  },
+  "Crawl": {
+    "zh": "匍匐前進",
+    "status": "approved",
+    "is_term": true
+  },
+  "Run": {
+    "zh": "奔跑",
+    "status": "approved",
+    "is_term": true
+  },
+  "Sneak Attack": {
+    "zh": "偷襲",
+    "status": "approved",
+    "is_term": true
+  },
+  "Grappling": {
+    "zh": "擒抱",
+    "status": "approved",
+    "is_term": true
+  },
+  "Diving Blow": {
+    "zh": "飛撲打擊",
+    "status": "approved",
+    "is_term": true
+  },
+  "Aimed Fire": {
+    "zh": "瞄準射擊",
+    "status": "approved",
+    "is_term": true
+  },
+  "Aimed shoot": {
+    "zh": "瞄準射擊",
+    "status": "approved",
+    "is_term": true
+  },
+  "Full-Auto Fire": {
+    "zh": "全自動射擊",
+    "status": "approved",
+    "is_term": true
+  },
+  "Bonus": {
+    "zh": "加值",
+    "status": "approved",
+    "is_term": true
+  },
+  "Weight": {
+    "zh": "重量",
+    "status": "approved",
+    "is_term": true
+  },
+  "Grip": {
+    "zh": "握持",
+    "status": "approved",
+    "is_term": true
+  },
+  "Your Turn": {
+    "zh": "你的回合",
+    "status": "approved",
+    "is_term": true
+  },
+  "NPC Initiative": {
+    "zh": "非玩家角色先攻",
+    "status": "approved",
+    "is_term": true
+  },
+  "Exchanging Initiative": {
+    "zh": "交換先攻",
+    "status": "approved",
+    "is_term": true
+  },
+  "Zone Features": {
+    "zh": "區域特徵",
+    "status": "approved",
+    "is_term": true
+  },
+  "Range Categories": {
+    "zh": "距離類別",
+    "status": "approved",
+    "is_term": true
+  },
+  "Close Combat": {
+    "zh": "近戰",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ranged Combat": {
+    "zh": "遠程戰鬥",
+    "status": "approved",
+    "is_term": true
+  },
+  "Blocking": {
+    "zh": "格擋",
+    "status": "approved",
+    "is_term": true
+  },
+  "Retreat": {
+    "zh": "撤退",
+    "status": "approved",
+    "is_term": true
+  },
+  "Aim": {
+    "zh": "瞄準",
+    "status": "approved",
+    "is_term": true
+  },
+  "Seek Cover": {
+    "zh": "尋找掩護",
+    "status": "approved",
+    "is_term": true
+  },
+  "Enter/Exit Vehicle": {
+    "zh": "進入／離開載具",
+    "status": "approved",
+    "is_term": true
+  },
+  "Start Engine": {
+    "zh": "啟動引擎",
+    "status": "approved",
+    "is_term": true
+  },
+  "Grab the Wheel": {
+    "zh": "抓住方向盤",
+    "status": "approved",
+    "is_term": true
+  },
+  "Drive": {
+    "zh": "駕駛",
+    "status": "approved",
+    "is_term": true
+  },
+  "Use Item": {
+    "zh": "使用物品",
+    "status": "approved",
+    "is_term": true
+  },
+  "Defenseless Target": {
+    "zh": "無防備目標",
+    "status": "approved",
+    "is_term": true
+  },
+  "Target Size": {
+    "zh": "目標尺寸",
+    "status": "approved",
+    "is_term": true
+  },
+  "Unseen Target": {
+    "zh": "未見目標",
+    "status": "approved",
+    "is_term": true
+  },
+  "Telescopic Sight": {
+    "zh": "望遠瞄具",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ammunition": {
+    "zh": "彈藥",
+    "status": "approved",
+    "is_term": true
+  },
+  "Weapons": {
+    "zh": "武器",
+    "status": "approved",
+    "is_term": true
   }
 }
