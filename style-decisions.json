@@ -52,10 +52,10 @@
     "preserve_images": false
   },
   "site": {
-    "title": "元年引擎 SRD",
-    "description": "元年引擎核心規則標準參考文件繁體中文版，涵蓋角色建立、技能、戰鬥、魔法與旅行規則。",
+    "title": "零年引擎 SRD",
+    "description": "零年引擎核心規則標準參考文件繁體中文版，涵蓋角色建立、技能、戰鬥、魔法與旅行規則。",
     "tagline": "骰動命運，見證你的故事",
-    "intro": "本文件為元年引擎（Year Zero Engine）核心機制的繁體中文版，包含角色建立、技能系統、戰鬥、魔法與旅行等完整規則，適合作為自製桌遊的規則基礎。"
+    "intro": "本文件為零年引擎（Year Zero Engine）核心機制的繁體中文版，包含角色建立、技能系統、戰鬥、魔法與旅行等完整規則，適合作為自製桌遊的規則基礎。"
   },
   "copyright": {
     "text": "© 2023 Fria Ligan AB。本文件依據 Year Zero Engine 免費桌遊授權（Free Tabletop License）發布，允許複製、修改與散佈。繁體中文版由洪偉翻譯整理，依相同授權條款開放使用。",

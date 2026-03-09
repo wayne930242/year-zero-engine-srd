@@ -1,6 +1,6 @@
 # year-zero-engine-srd
 
-Convert YZE Standard Reference Document PDF into a Traditional Chinese Markdown documentation site. Game: 元年引擎 SRD
+Convert YZE Standard Reference Document PDF into a Traditional Chinese Markdown documentation site. Game: 零年引擎 SRD
 
 ## Immutable Laws
 
