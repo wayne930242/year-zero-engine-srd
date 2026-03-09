@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "風格決定記錄 - 翻譯用語選擇與原因",
-    "updated": "2026-02-23"
+    "updated": "2026-03-09T11:14:42+00:00"
   },
   "translation_mode": {
     "mode": "full",
@@ -24,5 +24,11 @@
       "僅在 docs/astro.config.mjs 設定 URL，不記錄於 style-decisions.json"
     ],
     "reason": "使用者要求 repo 資訊寫在 style-decisions.json。初始化（/init-doc）時首頁 index.md 需依此資料產生；公開 repo 顯示連結，私人 repo 不顯示。"
+  },
+  "repository": {
+    "slug": "year-zero-engine-srd",
+    "visibility": "public",
+    "url": "https://github.com/wayne930242/year-zero-engine-srd",
+    "show_on_homepage": true
   }
 }
