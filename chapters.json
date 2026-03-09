@@ -1,80 +1,214 @@
 {
-  "source": "data/markdown/Cairn_pages.md",
+  "source": "data/markdown/YZE-Standard-Reference-Document_pages.md",
   "output_dir": "docs/src/content/docs",
-  "clean_patterns": [
-    "\\(Order #\\d+\\)",
-    "Page \\d+ of \\d+"
-  ],
+  "images": {
+    "enabled": false
+  },
   "chapters": {
-    "reference": {
-      "title": "快速參考",
+    "introduction": {
+      "title": "Introduction",
       "order": 1,
       "files": {
         "index": {
-          "title": "系統總覽",
-          "description": "Cairn 核心概念與快速導覽",
-          "pages": [1, 2],
+          "title": "Introduction",
+          "description": "Overview of the Year Zero Engine: core concepts, dice, tools, and key features.",
+          "pages": [
+            1,
+            3
+          ],
           "order": 0
         }
       }
     },
-    "rules": {
-      "title": "核心規則",
+    "player-characters": {
+      "title": "Player Characters",
       "order": 2,
       "files": {
-        "index": {
-          "title": "核心機制",
-          "description": "判定、行動與基本流程",
-          "pages": [3, 5],
+        "attributes-and-skills": {
+          "title": "Attributes & Skills",
+          "description": "Character creation: archetypes, attributes (dice pool and step dice), die types, and starting skills.",
+          "pages": [
+            4,
+            5
+          ],
           "order": 0
+        },
+        "specialties-gear-and-experience": {
+          "title": "Specialties, Gear & Experience",
+          "description": "Specialties, personality traits, gear, encumbrance, consumables, and spending XP.",
+          "pages": [
+            6,
+            7
+          ],
+          "order": 1
         }
       }
     },
-    "characters": {
-      "title": "角色",
+    "skills-and-specialties": {
+      "title": "Skills & Specialties",
       "order": 3,
       "files": {
-        "index": {
-          "title": "角色建立",
-          "description": "能力值、背景與角色特徵",
-          "pages": [6, 10],
+        "rolling-and-pushing": {
+          "title": "Rolling Dice & Pushing",
+          "description": "The twelve core skills, how to roll dice, successes, failure, pushing rolls, panic, and modifiers.",
+          "pages": [
+            8,
+            10
+          ],
           "order": 0
+        },
+        "gear-and-skill-list": {
+          "title": "Gear, Opposed Rolls & Skill Descriptions",
+          "description": "Gear bonuses, degradation, reliability, artifact dice, opposed rolls, NPCs, and descriptions of all twelve skills.",
+          "pages": [
+            11,
+            12
+          ],
+          "order": 1
+        },
+        "specialties": {
+          "title": "Specialties",
+          "description": "Sample general specialties (Bodyguard through Weapon Specialist) and magic specialties.",
+          "pages": [
+            13,
+            14
+          ],
+          "order": 2
         }
       }
     },
-    "items": {
-      "title": "物品與裝備",
+    "combat": {
+      "title": "Combat & Damage",
       "order": 4,
       "files": {
-        "index": {
-          "title": "裝備與法術",
-          "description": "物品欄、武器、防具與法術書",
-          "pages": [11, 14],
+        "maps-and-initiative": {
+          "title": "Maps, Zones & Initiative",
+          "description": "Combat maps, zone features, range categories, rounds, initiative, and the turn structure.",
+          "pages": [
+            15,
+            16
+          ],
           "order": 0
+        },
+        "actions-and-combat": {
+          "title": "Actions & Combat",
+          "description": "Slow and fast actions, movement, retreat, ambushes, close combat, ranged combat, overwatch, and weapons.",
+          "pages": [
+            17,
+            19
+          ],
+          "order": 1
+        },
+        "weapons-and-damage": {
+          "title": "Weapons, Damage & Conditions",
+          "description": "Weapon table, suffering damage and stress, body armor, cover, conditions, broken characters, and critical injury triggers.",
+          "pages": [
+            20,
+            21
+          ],
+          "order": 2
+        },
+        "critical-injuries": {
+          "title": "Critical Injuries",
+          "description": "Rolling for critical injuries, death, healing crits, physical critical injury table, and mental critical injury table.",
+          "pages": [
+            22,
+            24
+          ],
+          "order": 3
+        },
+        "hazards-and-vehicles": {
+          "title": "Hazards & Vehicles",
+          "description": "Environmental hazards (darkness, fire, explosions, falling, drowning, poison, disease, cold, starvation, sleep), mounts, and vehicles.",
+          "pages": [
+            25,
+            27
+          ],
+          "order": 4
+        },
+        "chases": {
+          "title": "Chases",
+          "description": "Chase rules: starting a chase, maneuvers, obstacles, and multi-participant chases.",
+          "pages": [
+            27,
+            29
+          ],
+          "order": 5
         }
       }
     },
-    "world": {
-      "title": "世界設定",
+    "magic": {
+      "title": "Magic",
       "order": 5,
       "files": {
         "index": {
-          "title": "危險與對抗",
-          "description": "戰鬥、傷害與遭遇處理",
-          "pages": [15, 20],
+          "title": "Magic",
+          "description": "Magic rules: spell ranks, casting, Willpower Points, overcharging, mishaps, and general spells.",
+          "pages": [
+            30,
+            31
+          ],
           "order": 0
+        },
+        "awareness": {
+          "title": "Awareness",
+          "description": "Druidic Awareness discipline: sight, hearing, farsight, past visions, divination, intuition, and telepathy spells.",
+          "pages": [
+            32,
+            33
+          ],
+          "order": 1
+        },
+        "healing-and-shapeshifting": {
+          "title": "Healing & Shapeshifting",
+          "description": "Druidic Healing and Shapeshifting disciplines: healing hands, mend wounds, resurrection, animal speech, animal form, and related spells.",
+          "pages": [
+            33,
+            35
+          ],
+          "order": 2
+        },
+        "blood-and-death-magic": {
+          "title": "Blood Magic & Death Magic",
+          "description": "Sorcery disciplines: Blood Magic (bind demon, immolate, blood curse) and Death Magic (raise the dead, steal life, terror).",
+          "pages": [
+            35,
+            37
+          ],
+          "order": 3
+        },
+        "elementalism-and-symbolism": {
+          "title": "Elementalism & Symbolism",
+          "description": "Sorcery disciplines: Elementalism (fireball, stoneskin, tornado, flood wave) and Symbolism (entice, illusion, puppeteer, portal).",
+          "pages": [
+            37,
+            40
+          ],
+          "order": 4
         }
       }
     },
-    "guides": {
-      "title": "主持人指南",
+    "travel": {
+      "title": "Travel",
       "order": 6,
       "files": {
         "index": {
-          "title": "主持與速查",
-          "description": "主持人建議與表格速查",
-          "pages": [21, 24],
+          "title": "Travel",
+          "description": "Travel rules: maps, terrain types, tasks, weather, marching, driving, and navigation.",
+          "pages": [
+            41,
+            42
+          ],
           "order": 0
+        },
+        "survival-tasks": {
+          "title": "Survival Tasks",
+          "description": "Keeping watch, foraging, hunting, fishing, making camp, cooking, sleeping, exploring, resting, and water travel.",
+          "pages": [
+            43,
+            45
+          ],
+          "order": 1
         }
       }
     }

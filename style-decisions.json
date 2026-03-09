@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "風格決定記錄 - 翻譯用語選擇與原因",
-    "updated": "2026-03-09T11:14:42+00:00"
+    "updated": "2026-03-09T11:21:04+00:00"
   },
   "translation_mode": {
     "mode": "full",
@@ -29,6 +29,53 @@
     "slug": "year-zero-engine-srd",
     "visibility": "public",
     "url": "https://github.com/wayne930242/year-zero-engine-srd",
+    "show_on_homepage": true
+  },
+  "document_format": {
+    "layout_profile": "double-column",
+    "aside_mapping": {
+      "note": "note",
+      "tip": "tip",
+      "caution": "caution",
+      "danger": "danger"
+    },
+    "component_usage": {
+      "cards": "用於各章節概覽及功能選項卡片",
+      "tabs": "用於規則變體（variants）的並列呈現"
+    },
+    "table_conventions": {
+      "tables": "數值表與技能表使用標準 Markdown 表格，欄位簡潔對齊",
+      "dice_tables": "骰表使用 Markdown 表格，含明確骰值範圍（如 1-2、3-4、5-6），無重疊或缺漏；遊戲範例統一使用 :::note aside"
+    }
+  },
+  "images": {
+    "preserve_images": false
+  },
+  "site": {
+    "title": "元年引擎 SRD",
+    "description": "元年引擎核心規則標準參考文件繁體中文版，涵蓋角色建立、技能、戰鬥、魔法與旅行規則。",
+    "tagline": "骰動命運，見證你的故事",
+    "intro": "本文件為元年引擎（Year Zero Engine）核心機制的繁體中文版，包含角色建立、技能系統、戰鬥、魔法與旅行等完整規則，適合作為自製桌遊的規則基礎。"
+  },
+  "copyright": {
+    "text": "© 2023 Fria Ligan AB。本文件依據 Year Zero Engine 免費桌遊授權（Free Tabletop License）發布，允許複製、修改與散佈。繁體中文版由洪偉翻譯整理，依相同授權條款開放使用。",
+    "show_on_homepage": true
+  },
+  "credits": {
+    "entries": [
+      {
+        "role": "原作者",
+        "name": "Tomas Härenstam"
+      },
+      {
+        "role": "出版",
+        "name": "Fria Ligan AB"
+      },
+      {
+        "role": "繁體中文翻譯與整理",
+        "name": "洪偉"
+      }
+    ],
     "show_on_homepage": true
   }
 }
