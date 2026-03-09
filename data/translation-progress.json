@@ -3,7 +3,7 @@
     "description": "Translation progress tracker",
     "updated": "2026-03-09",
     "total_chapters": 19,
-    "completed": 17
+    "completed": 19
   },
   "chapters": [
     {
@@ -147,7 +147,7 @@
       "title": "Travel",
       "file": "docs/src/content/docs/travel/index.md",
       "source_pages": "41-42",
-      "status": "in_progress",
+      "status": "completed",
       "notes": ""
     },
     {
@@ -155,7 +155,7 @@
       "title": "Survival Tasks",
       "file": "docs/src/content/docs/travel/survival-tasks.md",
       "source_pages": "43-45",
-      "status": "in_progress",
+      "status": "completed",
       "notes": ""
     }
   ]
