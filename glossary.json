@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "術語表 - 英文遊戲術語對照繁體中文翻譯",
-    "updated": "2026-03-09T12:00:53+00:00"
+    "updated": "2026-03-09T12:08:46+00:00"
   },
   "Player Character": {
     "zh": "玩家角色",
@@ -710,6 +710,311 @@
   },
   "Weapons": {
     "zh": "武器",
+    "status": "approved",
+    "is_term": true
+  },
+  "Critical Injuries": {
+    "zh": "嚴重傷害",
+    "status": "approved",
+    "is_term": true
+  },
+  "Unarmed": {
+    "zh": "徒手",
+    "status": "approved",
+    "is_term": true
+  },
+  "Blunt instrument": {
+    "zh": "鈍器",
+    "status": "approved",
+    "is_term": true
+  },
+  "Knife": {
+    "zh": "小刀",
+    "status": "approved",
+    "is_term": true
+  },
+  "Club": {
+    "zh": "棍棒",
+    "status": "approved",
+    "is_term": true
+  },
+  "Sword": {
+    "zh": "劍",
+    "status": "approved",
+    "is_term": true
+  },
+  "Battleaxe": {
+    "zh": "戰斧",
+    "status": "approved",
+    "is_term": true
+  },
+  "Spear": {
+    "zh": "長矛",
+    "status": "approved",
+    "is_term": true
+  },
+  "Rock": {
+    "zh": "石塊",
+    "status": "approved",
+    "is_term": true
+  },
+  "Sling": {
+    "zh": "投石索",
+    "status": "approved",
+    "is_term": true
+  },
+  "Bow": {
+    "zh": "弓",
+    "status": "approved",
+    "is_term": true
+  },
+  "Pistol": {
+    "zh": "手槍",
+    "status": "approved",
+    "is_term": true
+  },
+  "Rifle": {
+    "zh": "步槍",
+    "status": "approved",
+    "is_term": true
+  },
+  "Stressful Situations": {
+    "zh": "壓力情境",
+    "status": "approved",
+    "is_term": true
+  },
+  "Body Armor": {
+    "zh": "身體護甲",
+    "status": "approved",
+    "is_term": true
+  },
+  "Conditions": {
+    "zh": "狀態",
+    "status": "approved",
+    "is_term": true
+  },
+  "Exhausted": {
+    "zh": "疲憊",
+    "status": "approved",
+    "is_term": true
+  },
+  "Battered": {
+    "zh": "瘀傷",
+    "status": "approved",
+    "is_term": true
+  },
+  "Wounded": {
+    "zh": "受傷",
+    "status": "approved",
+    "is_term": true
+  },
+  "Angry": {
+    "zh": "憤怒",
+    "status": "approved",
+    "is_term": true
+  },
+  "Scared": {
+    "zh": "恐懼",
+    "status": "approved",
+    "is_term": true
+  },
+  "Disheartened": {
+    "zh": "灰心",
+    "status": "approved",
+    "is_term": true
+  },
+  "Recovery": {
+    "zh": "恢復",
+    "status": "approved",
+    "is_term": true
+  },
+  "Drowning": {
+    "zh": "溺水",
+    "status": "approved",
+    "is_term": true
+  },
+  "Poison": {
+    "zh": "毒素",
+    "status": "approved",
+    "is_term": true
+  },
+  "Disease": {
+    "zh": "疾病",
+    "status": "approved",
+    "is_term": true
+  },
+  "Cold": {
+    "zh": "寒冷",
+    "status": "approved",
+    "is_term": true
+  },
+  "Starvation": {
+    "zh": "飢餓",
+    "status": "approved",
+    "is_term": true
+  },
+  "Sleep Deprivation": {
+    "zh": "睡眠剝奪",
+    "status": "approved",
+    "is_term": true
+  },
+  "Mounts": {
+    "zh": "坐騎",
+    "status": "approved",
+    "is_term": true
+  },
+  "Vehicles": {
+    "zh": "載具",
+    "status": "approved",
+    "is_term": true
+  },
+  "Maneuverability": {
+    "zh": "機動性",
+    "status": "approved",
+    "is_term": true
+  },
+  "Hull": {
+    "zh": "車體",
+    "status": "approved",
+    "is_term": true
+  },
+  "Travel Speed": {
+    "zh": "旅行速度",
+    "status": "approved",
+    "is_term": true
+  },
+  "Typical Vehicles": {
+    "zh": "典型載具",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ramming": {
+    "zh": "撞擊",
+    "status": "approved",
+    "is_term": true
+  },
+  "Repairs": {
+    "zh": "修理",
+    "status": "approved",
+    "is_term": true
+  },
+  "Component Damage": {
+    "zh": "部件損傷",
+    "status": "approved",
+    "is_term": true
+  },
+  "Chases": {
+    "zh": "追逐",
+    "status": "approved",
+    "is_term": true
+  },
+  "Starting the Chase": {
+    "zh": "開始追逐",
+    "status": "approved",
+    "is_term": true
+  },
+  "Resolution": {
+    "zh": "結算",
+    "status": "approved",
+    "is_term": true
+  },
+  "Physical Conditions": {
+    "zh": "身體狀態",
+    "status": "approved",
+    "is_term": true
+  },
+  "Mental Conditions": {
+    "zh": "精神狀態",
+    "status": "approved",
+    "is_term": true
+  },
+  "Physical Critical Injury": {
+    "zh": "身體嚴重傷害",
+    "status": "approved",
+    "is_term": true
+  },
+  "Mental Critical Injury": {
+    "zh": "精神嚴重傷害",
+    "status": "approved",
+    "is_term": true
+  },
+  "Rolling for the Crit": {
+    "zh": "擲出重傷",
+    "status": "approved",
+    "is_term": true
+  },
+  "Death": {
+    "zh": "死亡",
+    "status": "approved",
+    "is_term": true
+  },
+  "Stabilizing Crits": {
+    "zh": "穩定重傷",
+    "status": "approved",
+    "is_term": true
+  },
+  "Healing Crits": {
+    "zh": "治療重傷",
+    "status": "approved",
+    "is_term": true
+  },
+  "Healing Time": {
+    "zh": "恢復時間",
+    "status": "approved",
+    "is_term": true
+  },
+  "Effects": {
+    "zh": "效果",
+    "status": "approved",
+    "is_term": true
+  },
+  "Lethal": {
+    "zh": "致命",
+    "status": "approved",
+    "is_term": true
+  },
+  "Time Limit": {
+    "zh": "時限",
+    "status": "approved",
+    "is_term": true
+  },
+  "Winded": {
+    "zh": "喘不過氣",
+    "status": "approved",
+    "is_term": true
+  },
+  "Stunned": {
+    "zh": "暈眩",
+    "status": "approved",
+    "is_term": true
+  },
+  "Crippling pain": {
+    "zh": "劇痛",
+    "status": "approved",
+    "is_term": true
+  },
+  "Sprained ankle": {
+    "zh": "腳踝扭傷",
+    "status": "approved",
+    "is_term": true
+  },
+  "Blood in eye": {
+    "zh": "眼中進血",
+    "status": "approved",
+    "is_term": true
+  },
+  "Concussion": {
+    "zh": "腦震盪",
+    "status": "approved",
+    "is_term": true
+  },
+  "Severed ear": {
+    "zh": "耳朵斷裂",
+    "status": "approved",
+    "is_term": true
+  },
+  "Broken toe": {
+    "zh": "腳趾骨折",
     "status": "approved",
     "is_term": true
   }

@@ -3,7 +3,7 @@
     "description": "Translation progress tracker",
     "updated": "2026-03-09",
     "total_chapters": 19,
-    "completed": 3
+    "completed": 6
   },
   "chapters": [
     {
@@ -75,7 +75,7 @@
       "title": "Weapons, Damage & Conditions",
       "file": "docs/src/content/docs/combat/weapons-and-damage.md",
       "source_pages": "20-21",
-      "status": "not_started",
+      "status": "completed",
       "notes": ""
     },
     {
@@ -83,7 +83,7 @@
       "title": "Critical Injuries",
       "file": "docs/src/content/docs/combat/critical-injuries.md",
       "source_pages": "22-24",
-      "status": "not_started",
+      "status": "completed",
       "notes": ""
     },
     {
@@ -91,7 +91,7 @@
       "title": "Hazards & Vehicles",
       "file": "docs/src/content/docs/combat/hazards-and-vehicles.md",
       "source_pages": "25-27",
-      "status": "not_started",
+      "status": "completed",
       "notes": ""
     },
     {
