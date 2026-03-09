@@ -1,0 +1,42 @@
+---
+title: 遊戲規則文件
+description: 遊戲規則文件首頁
+template: splash
+hero:
+  tagline: 快速查閱核心規則、角色、裝備與主持指南
+  image:
+    file: ../../assets/hero.jpg
+  actions:
+    - text: 快速參考
+      link: /reference/
+      icon: right-arrow
+    - text: 核心規則
+      link: /rules/
+      icon: document
+      variant: minimal
+sidebar:
+  order: 0
+---
+
+import { CardGrid, LinkCard } from '@astrojs/starlight/components';
+
+## 內容簡介
+
+本站整理遊戲規則的主要章節，提供易讀、可搜尋的文件版本，方便跑團前準備與遊戲中快速查表。
+
+## 快速導航
+
+<CardGrid>
+  <LinkCard title="快速參考" href="/reference/" description="Cairn 核心概念與快速導覽" />
+  <LinkCard title="核心規則" href="/rules/" description="判定、行動與基本流程" />
+  <LinkCard title="角色" href="/characters/" description="能力值、背景與角色特徵" />
+  <LinkCard title="物品與裝備" href="/items/" description="物品欄、武器、防具與法術書" />
+  <LinkCard title="世界設定" href="/world/" description="戰鬥、傷害與遭遇處理" />
+  <LinkCard title="主持人指南" href="/guides/" description="主持人建議與表格速查" />
+</CardGrid>
+
+---
+
+## 聲明
+
+本站內容為規則整理與翻譯文件，僅供個人遊戲參考使用。原文著作權與商標權歸原作者與出版方所有，請支持正版。
