@@ -73,6 +73,18 @@
     "status": "approved",
     "is_term": true
   },
+  "Step Die": {
+    "zh": "階級骰",
+    "status": "approved",
+    "is_term": true,
+    "notes": "原譯「步進骰」或「階梯骰」，統一改為「階級骰」"
+  },
+  "Stepped Die": {
+    "zh": "階級骰",
+    "status": "approved",
+    "is_term": true,
+    "notes": "原譯「步進骰」或「階梯骰」，統一改為「階級骰」"
+  },
   "Success": {
     "zh": "成功",
     "status": "approved",
