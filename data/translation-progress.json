@@ -3,7 +3,7 @@
     "description": "Translation progress tracker",
     "updated": "2026-03-09",
     "total_chapters": 19,
-    "completed": 6
+    "completed": 9
   },
   "chapters": [
     {
@@ -99,7 +99,7 @@
       "title": "Chases",
       "file": "docs/src/content/docs/combat/chases.md",
       "source_pages": "27-29",
-      "status": "not_started",
+      "status": "completed",
       "notes": ""
     },
     {
@@ -107,7 +107,7 @@
       "title": "Magic",
       "file": "docs/src/content/docs/magic/index.md",
       "source_pages": "30-31",
-      "status": "not_started",
+      "status": "completed",
       "notes": ""
     },
     {
@@ -115,7 +115,7 @@
       "title": "Awareness",
       "file": "docs/src/content/docs/magic/awareness.md",
       "source_pages": "32-33",
-      "status": "not_started",
+      "status": "completed",
       "notes": ""
     },
     {

@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "術語表 - 英文遊戲術語對照繁體中文翻譯",
-    "updated": "2026-03-09T12:08:46+00:00"
+    "updated": "2026-03-09T12:14:42+00:00"
   },
   "Player Character": {
     "zh": "玩家角色",
@@ -1015,6 +1015,236 @@
   },
   "Broken toe": {
     "zh": "腳趾骨折",
+    "status": "approved",
+    "is_term": true
+  },
+  "Pursuer": {
+    "zh": "追擊者",
+    "status": "approved",
+    "is_term": true
+  },
+  "Prey": {
+    "zh": "獵物",
+    "status": "approved",
+    "is_term": true
+  },
+  "Pursue": {
+    "zh": "追擊／逃離",
+    "status": "approved",
+    "is_term": true
+  },
+  "Hide": {
+    "zh": "躲藏",
+    "status": "approved",
+    "is_term": true
+  },
+  "Block": {
+    "zh": "阻擋",
+    "status": "approved",
+    "is_term": true
+  },
+  "Cut Off": {
+    "zh": "攔截",
+    "status": "approved",
+    "is_term": true
+  },
+  "Stand and Shoot": {
+    "zh": "停步射擊",
+    "status": "approved",
+    "is_term": true
+  },
+  "Chase Maneuvers": {
+    "zh": "追逐動作",
+    "status": "approved",
+    "is_term": true
+  },
+  "Chase Obstacles": {
+    "zh": "追逐障礙",
+    "status": "approved",
+    "is_term": true
+  },
+  "Vehicle Chase Obstacles": {
+    "zh": "載具追逐障礙",
+    "status": "approved",
+    "is_term": true
+  },
+  "Magic": {
+    "zh": "魔法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Discipline": {
+    "zh": "學派",
+    "status": "approved",
+    "is_term": true
+  },
+  "Sorcery": {
+    "zh": "術法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Spell": {
+    "zh": "法術",
+    "status": "approved",
+    "is_term": true
+  },
+  "Chance Casting": {
+    "zh": "冒險施法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Casting a Spell": {
+    "zh": "施放法術",
+    "status": "approved",
+    "is_term": true
+  },
+  "Power Word": {
+    "zh": "真言",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ritual": {
+    "zh": "儀式",
+    "status": "approved",
+    "is_term": true
+  },
+  "Power Level": {
+    "zh": "威能等級",
+    "status": "approved",
+    "is_term": true
+  },
+  "Overcharging": {
+    "zh": "過載",
+    "status": "approved",
+    "is_term": true
+  },
+  "Magic Mishap": {
+    "zh": "魔法失控",
+    "status": "approved",
+    "is_term": true
+  },
+  "Safe Casting": {
+    "zh": "穩妥施法",
+    "status": "approved",
+    "is_term": true
+  },
+  "General Spells": {
+    "zh": "通用法術",
+    "status": "approved",
+    "is_term": true
+  },
+  "Magical Seal": {
+    "zh": "魔法封印",
+    "status": "approved",
+    "is_term": true
+  },
+  "Sense Magic": {
+    "zh": "感知魔法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Dispel Magic": {
+    "zh": "驅散魔法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Obscure Magic": {
+    "zh": "遮蔽魔法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Bind Magic": {
+    "zh": "綁定魔法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Transfer": {
+    "zh": "轉移",
+    "status": "approved",
+    "is_term": true
+  },
+  "Lightbringer": {
+    "zh": "光明使者",
+    "status": "approved",
+    "is_term": true
+  },
+  "True Sight": {
+    "zh": "真視",
+    "status": "approved",
+    "is_term": true
+  },
+  "Words on the Wind": {
+    "zh": "風中之語",
+    "status": "approved",
+    "is_term": true
+  },
+  "Awareness": {
+    "zh": "覺察",
+    "status": "approved",
+    "is_term": true
+  },
+  "Farsight": {
+    "zh": "遠視",
+    "status": "approved",
+    "is_term": true
+  },
+  "True Path": {
+    "zh": "真路",
+    "status": "approved",
+    "is_term": true
+  },
+  "Visions of the Past": {
+    "zh": "過往幻視",
+    "status": "approved",
+    "is_term": true
+  },
+  "Divination": {
+    "zh": "占卜",
+    "status": "approved",
+    "is_term": true
+  },
+  "Intuition": {
+    "zh": "直覺啟示",
+    "status": "approved",
+    "is_term": true
+  },
+  "Telepathy": {
+    "zh": "心靈感應",
+    "status": "approved",
+    "is_term": true
+  },
+  "Grimoire": {
+    "zh": "魔導書",
+    "status": "approved",
+    "is_term": true
+  },
+  "Demon": {
+    "zh": "惡魔",
+    "status": "approved",
+    "is_term": true
+  },
+  "Willpower Points": {
+    "zh": "意志點",
+    "status": "approved",
+    "is_term": true
+  },
+  "Learning Magic": {
+    "zh": "學習魔法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Spells": {
+    "zh": "法術",
+    "status": "approved",
+    "is_term": true
+  },
+  "Range": {
+    "zh": "射程",
+    "status": "approved",
+    "is_term": true
+  },
+  "Duration": {
+    "zh": "持續時間",
     "status": "approved",
     "is_term": true
   }
