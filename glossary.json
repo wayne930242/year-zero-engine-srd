@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "術語表 - 英文遊戲術語對照繁體中文翻譯",
-    "updated": "2026-03-09T12:14:42+00:00"
+    "updated": "2026-03-09T12:22:01+00:00"
   },
   "Player Character": {
     "zh": "玩家角色",
@@ -1245,6 +1245,311 @@
   },
   "Duration": {
     "zh": "持續時間",
+    "status": "approved",
+    "is_term": true
+  },
+  "Shapeshifting": {
+    "zh": "變形",
+    "status": "approved",
+    "is_term": true
+  },
+  "Cleanse Spirit": {
+    "zh": "淨化心靈",
+    "status": "approved",
+    "is_term": true
+  },
+  "Healing Hands": {
+    "zh": "療癒之手",
+    "status": "approved",
+    "is_term": true
+  },
+  "Nature’s Cure": {
+    "zh": "自然療癒",
+    "status": "approved",
+    "is_term": true
+  },
+  "Banish Demon": {
+    "zh": "驅逐惡魔",
+    "status": "approved",
+    "is_term": true
+  },
+  "Mend Wounds": {
+    "zh": "癒合傷口",
+    "status": "approved",
+    "is_term": true
+  },
+  "Purge Undead": {
+    "zh": "驅散不死",
+    "status": "approved",
+    "is_term": true
+  },
+  "Resurrection": {
+    "zh": "復生",
+    "status": "approved",
+    "is_term": true
+  },
+  "Serenity": {
+    "zh": "寧靜",
+    "status": "approved",
+    "is_term": true
+  },
+  "Weathermaster": {
+    "zh": "御天者",
+    "status": "approved",
+    "is_term": true
+  },
+  "Animal Speech": {
+    "zh": "獸語",
+    "status": "approved",
+    "is_term": true
+  },
+  "Cat’s Paw": {
+    "zh": "貓之爪",
+    "status": "approved",
+    "is_term": true
+  },
+  "Hawk’s Eye": {
+    "zh": "鷹眼",
+    "status": "approved",
+    "is_term": true
+  },
+  "Beastmaster": {
+    "zh": "馭獸",
+    "status": "approved",
+    "is_term": true
+  },
+  "Bear’s Claw": {
+    "zh": "熊爪",
+    "status": "approved",
+    "is_term": true
+  },
+  "Deer’s Dash": {
+    "zh": "鹿奔",
+    "status": "approved",
+    "is_term": true
+  },
+  "Animal Form": {
+    "zh": "獸形",
+    "status": "approved",
+    "is_term": true
+  },
+  "Primal Soul": {
+    "zh": "原初靈魂",
+    "status": "approved",
+    "is_term": true
+  },
+  "Blood Magic": {
+    "zh": "血魔法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Death Magic": {
+    "zh": "死靈魔法",
+    "status": "approved",
+    "is_term": true
+  },
+  "Firewalker": {
+    "zh": "踏火者",
+    "status": "approved",
+    "is_term": true
+  },
+  "Stir Blood": {
+    "zh": "激血",
+    "status": "approved",
+    "is_term": true
+  },
+  "Bind Demon": {
+    "zh": "束縛惡魔",
+    "status": "approved",
+    "is_term": true
+  },
+  "Blood Bond": {
+    "zh": "血之連結",
+    "status": "approved",
+    "is_term": true
+  },
+  "Immolate": {
+    "zh": "焚血",
+    "status": "approved",
+    "is_term": true
+  },
+  "Blood Channeling": {
+    "zh": "血脈導引",
+    "status": "approved",
+    "is_term": true
+  },
+  "Blood Curse": {
+    "zh": "血咒",
+    "status": "approved",
+    "is_term": true
+  },
+  "Bind Soul": {
+    "zh": "束縛靈魂",
+    "status": "approved",
+    "is_term": true
+  },
+  "Befoul": {
+    "zh": "汙化",
+    "status": "approved",
+    "is_term": true
+  },
+  "Chill of the Grave": {
+    "zh": "墓寒",
+    "status": "approved",
+    "is_term": true
+  },
+  "Contaminate": {
+    "zh": "染疫",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ghoulish Glare": {
+    "zh": "屍鬼凝視",
+    "status": "approved",
+    "is_term": true
+  },
+  "Hand of Doom": {
+    "zh": "末日之手",
+    "status": "approved",
+    "is_term": true
+  },
+  "Raise the Dead": {
+    "zh": "喚起亡者",
+    "status": "approved",
+    "is_term": true
+  },
+  "Speak to the Dead": {
+    "zh": "與亡者交談",
+    "status": "approved",
+    "is_term": true
+  },
+  "Steal Life": {
+    "zh": "竊命",
+    "status": "approved",
+    "is_term": true
+  },
+  "Terror": {
+    "zh": "恐懼支配",
+    "status": "approved",
+    "is_term": true
+  },
+  "Elementalism": {
+    "zh": "元素術",
+    "status": "approved",
+    "is_term": true
+  },
+  "Symbolism": {
+    "zh": "象徵術",
+    "status": "approved",
+    "is_term": true
+  },
+  "Combustion": {
+    "zh": "燃燒",
+    "status": "approved",
+    "is_term": true
+  },
+  "Sunder": {
+    "zh": "粉裂",
+    "status": "approved",
+    "is_term": true
+  },
+  "Suffocate": {
+    "zh": "窒息",
+    "status": "approved",
+    "is_term": true
+  },
+  "Water Breathing": {
+    "zh": "水中呼吸",
+    "status": "approved",
+    "is_term": true
+  },
+  "Heat of the Moment": {
+    "zh": "怒火上湧",
+    "status": "approved",
+    "is_term": true
+  },
+  "Rock Storm": {
+    "zh": "石暴",
+    "status": "approved",
+    "is_term": true
+  },
+  "Flight": {
+    "zh": "飛行",
+    "status": "approved",
+    "is_term": true
+  },
+  "Parch": {
+    "zh": "乾竭",
+    "status": "approved",
+    "is_term": true
+  },
+  "Fireball": {
+    "zh": "火球",
+    "status": "approved",
+    "is_term": true
+  },
+  "Stoneskin": {
+    "zh": "石膚",
+    "status": "approved",
+    "is_term": true
+  },
+  "Tornado": {
+    "zh": "龍捲",
+    "status": "approved",
+    "is_term": true
+  },
+  "Flood Wave": {
+    "zh": "洪浪",
+    "status": "approved",
+    "is_term": true
+  },
+  "Entice": {
+    "zh": "引誘",
+    "status": "approved",
+    "is_term": true
+  },
+  "Horrify": {
+    "zh": "驚駭",
+    "status": "approved",
+    "is_term": true
+  },
+  "Paralyze": {
+    "zh": "麻痺",
+    "status": "approved",
+    "is_term": true
+  },
+  "Blind": {
+    "zh": "致盲",
+    "status": "approved",
+    "is_term": true
+  },
+  "Illusion": {
+    "zh": "幻象",
+    "status": "approved",
+    "is_term": true
+  },
+  "Mind Trick": {
+    "zh": "心智偏轉",
+    "status": "approved",
+    "is_term": true
+  },
+  "Puppeteer": {
+    "zh": "操偶師",
+    "status": "approved",
+    "is_term": true
+  },
+  "Power Rune": {
+    "zh": "威能符文",
+    "status": "approved",
+    "is_term": true
+  },
+  "Portal": {
+    "zh": "傳送門",
+    "status": "approved",
+    "is_term": true
+  },
+  "Undead": {
+    "zh": "不死生物",
     "status": "approved",
     "is_term": true
   }

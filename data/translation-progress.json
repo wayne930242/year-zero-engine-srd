@@ -3,7 +3,7 @@
     "description": "Translation progress tracker",
     "updated": "2026-03-09",
     "total_chapters": 19,
-    "completed": 14
+    "completed": 17
   },
   "chapters": [
     {
@@ -123,7 +123,7 @@
       "title": "Healing & Shapeshifting",
       "file": "docs/src/content/docs/magic/healing-and-shapeshifting.md",
       "source_pages": "33-35",
-      "status": "not_started",
+      "status": "completed",
       "notes": ""
     },
     {
@@ -131,7 +131,7 @@
       "title": "Blood Magic & Death Magic",
       "file": "docs/src/content/docs/magic/blood-and-death-magic.md",
       "source_pages": "35-37",
-      "status": "not_started",
+      "status": "completed",
       "notes": ""
     },
     {
@@ -139,7 +139,7 @@
       "title": "Elementalism & Symbolism",
       "file": "docs/src/content/docs/magic/elementalism-and-symbolism.md",
       "source_pages": "37-40",
-      "status": "not_started",
+      "status": "completed",
       "notes": ""
     },
     {
@@ -147,7 +147,7 @@
       "title": "Travel",
       "file": "docs/src/content/docs/travel/index.md",
       "source_pages": "41-42",
-      "status": "not_started",
+      "status": "in_progress",
       "notes": ""
     },
     {
@@ -155,7 +155,7 @@
       "title": "Survival Tasks",
       "file": "docs/src/content/docs/travel/survival-tasks.md",
       "source_pages": "43-45",
-      "status": "not_started",
+      "status": "in_progress",
       "notes": ""
     }
   ]
