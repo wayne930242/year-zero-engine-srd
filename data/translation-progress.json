@@ -3,7 +3,7 @@
     "description": "Translation progress tracker",
     "updated": "2026-03-09",
     "total_chapters": 19,
-    "completed": 9
+    "completed": 14
   },
   "chapters": [
     {
@@ -11,7 +11,7 @@
       "title": "Introduction",
       "file": "docs/src/content/docs/introduction/index.md",
       "source_pages": "1-3",
-      "status": "in_progress",
+      "status": "completed",
       "notes": ""
     },
     {
@@ -19,7 +19,7 @@
       "title": "Attributes & Skills",
       "file": "docs/src/content/docs/player-characters/attributes-and-skills.md",
       "source_pages": "4-5",
-      "status": "in_progress",
+      "status": "completed",
       "notes": ""
     },
     {
@@ -27,7 +27,7 @@
       "title": "Specialties, Gear & Experience",
       "file": "docs/src/content/docs/player-characters/specialties-gear-and-experience.md",
       "source_pages": "6-7",
-      "status": "in_progress",
+      "status": "completed",
       "notes": ""
     },
     {
@@ -35,7 +35,7 @@
       "title": "Rolling Dice & Pushing",
       "file": "docs/src/content/docs/skills-and-specialties/rolling-and-pushing.md",
       "source_pages": "8-10",
-      "status": "in_progress",
+      "status": "completed",
       "notes": ""
     },
     {
@@ -43,7 +43,7 @@
       "title": "Gear, Opposed Rolls & Skill Descriptions",
       "file": "docs/src/content/docs/skills-and-specialties/gear-and-skill-list.md",
       "source_pages": "11-12",
-      "status": "in_progress",
+      "status": "completed",
       "notes": ""
     },
     {
