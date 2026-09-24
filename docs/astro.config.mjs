@@ -22,6 +22,7 @@ const SITE_CONFIG = {
 // ============================================
 
 export default defineConfig({
+	base: '/books/year-zero-engine-srd',
 	markdown: {
 		smartypants: false,
 	},

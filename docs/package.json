@@ -5,14 +5,18 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "astro build && node search/build/index.mjs && node build/rebase-urls.mjs",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "test": "node --test search/**/*.test.mjs build/**/*.test.mjs",
+    "verify-search": "node search/verify.mjs"
   },
   "dependencies": {
     "@astrojs/starlight": "0.37.6",
-    "@astrojs/vercel": "^9.0.4",
     "astro": "5.17.3",
-    "sharp": "^0.34.2"
+    "sharp": "^0.34.2",
+    "node-html-parser": "^9.0.1",
+    "pagefind": "1.4.0",
+    "starlight-auto-sidebar": "^0.2.0"
   }
 }
